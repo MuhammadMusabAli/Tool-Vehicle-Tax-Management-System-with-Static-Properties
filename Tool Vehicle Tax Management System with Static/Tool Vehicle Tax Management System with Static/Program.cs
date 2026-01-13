@@ -2,22 +2,12 @@
 // Online C# Editor for free
 // Write, Edit and Run your C# code using C# Online Compiler
 
-// using System;
-
-// Project Structure
-// ToolVehicleTaxSystem
-// │
-// ├── ToolVehicle.cs
-// ├── Car.cs
-// ├── Bike.cs
-// ├── HeavyVehicle.cs
-// └── Program.cs
 
 using System;
 
 namespace ToolVehicleTaxSystem
 {
-    // ================= BASE CLASS =================
+ // Parent CLASS 
     abstract class ToolVehicle
     {
         public int VehicleID { get; set; }
@@ -52,7 +42,7 @@ namespace ToolVehicleTaxSystem
         }
     }
 
-    // ================= BIKE CLASS =================
+    // BIKE CLASS 
     class Bike : ToolVehicle
     {
         public Bike(int id) : base(id, "Bike") { }
@@ -63,7 +53,7 @@ namespace ToolVehicleTaxSystem
         }
     }
 
-    // ================= CAR CLASS =================
+    //  CAR CLASS
     class Car : ToolVehicle
     {
         public Car(int id) : base(id, "Car") { }
@@ -74,7 +64,7 @@ namespace ToolVehicleTaxSystem
         }
     }
 
-    // ================= HEAVY VEHICLE CLASS =================
+    //HEAVY VEHICLE CLASS
     class HeavyVehicle : ToolVehicle
     {
         public HeavyVehicle(int id) : base(id, "Heavy Vehicle") { }
@@ -85,7 +75,7 @@ namespace ToolVehicleTaxSystem
         }
     }
 
-    // ================= MAIN PROGRAM =================
+    //  MAIN PROGRAM
     class Program
     {
         static void Main(string[] args)
@@ -160,4 +150,5 @@ namespace ToolVehicleTaxSystem
         }
     }
 }
+
 
