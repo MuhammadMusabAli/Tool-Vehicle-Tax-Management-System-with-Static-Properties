@@ -1,0 +1,14 @@
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\bin\Debug\net9.0\Tool Vehicle Tax Management System with Static.exe
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\bin\Debug\net9.0\Tool Vehicle Tax Management System with Static.deps.json
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\bin\Debug\net9.0\Tool Vehicle Tax Management System with Static.runtimeconfig.json
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\bin\Debug\net9.0\Tool Vehicle Tax Management System with Static.dll
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\bin\Debug\net9.0\Tool Vehicle Tax Management System with Static.pdb
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\obj\Debug\net9.0\Tool Vehicle Tax Management System with Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\obj\Debug\net9.0\Tool Vehicle Tax Management System with Static.AssemblyInfoInputs.cache
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\obj\Debug\net9.0\Tool Vehicle Tax Management System with Static.AssemblyInfo.cs
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\obj\Debug\net9.0\Tool Vehicle Tax Management System with Static.csproj.CoreCompileInputs.cache
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\obj\Debug\net9.0\Tool Vehicle Tax Management System with Static.dll
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\obj\Debug\net9.0\refint\Tool Vehicle Tax Management System with Static.dll
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\obj\Debug\net9.0\Tool Vehicle Tax Management System with Static.pdb
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\obj\Debug\net9.0\Tool Vehicle Tax Management System with Static.genruntimeconfig.cache
+C:\Users\asp\3D Objects\Tool Vehicle Tax Management System with Static\Tool Vehicle Tax Management System with Static\obj\Debug\net9.0\ref\Tool Vehicle Tax Management System with Static.dll
